@@ -1,0 +1,21 @@
+obtain and log into personal developer instance
+https://dev89165.service-now.com/
+
+-MANAGE => instance
+admin
+*password
+
+-List is a content page
+each row is record
+each column is a field
+
+search Descript = *phone
+
+_FORMS
+annotation is a header that gives instructions.
+
+-inclident > open //means to go to the application navigator
+
+
+
+
